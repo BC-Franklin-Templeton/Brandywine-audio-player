@@ -1,4 +1,4 @@
-videojs.registerPlugin('brandywine-audio-player', function() {
+videojs.registerPlugin('brandywineAudioPlayer', function() {
  var myPlayer = this;
  myPlayer.audioOnlyMode(true);
 });
